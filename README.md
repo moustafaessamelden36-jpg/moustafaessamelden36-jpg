@@ -7,6 +7,10 @@
  </abc>
 </h2> 
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=moustafaessamelden36-jpg&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="moustafaessamelden36-jpg" />
+</p>
+
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I'm Mastering:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/> </a>
@@ -28,13 +32,13 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :seedling: I'm an **Agricultural Engineering** graduate from Alexandria University, currently making a professional **Career Shift** to Frontend Development.
-- :teacher: **Physics Teacher** with **7 years** of experience, developing strong communication and problem-solving skills.
-- :mortar_board: I hold a **Postgraduate Educational Diploma (دبلومة تربوي)**.
+- :teacher: **Physics Teacher** with **7 years** of experience, developing strong communication and analytical skills.
+- :mortar_board: I hold a **Postgraduate Educational Diploma**.
 - :mortar_board: Currently enrolled in the **Front-end Diploma at Route Academy**.
-- :white_check_mark: Successfully completed comprehensive courses in **HTML, CSS, and JavaScript** from **Elzero Web School** (Osama Elzero).
-- :javascript: Deep diving into **JavaScript**, currently focusing on **Arrays** and logic building.
+- :white_check_mark: Successfully completed comprehensive courses in **HTML, CSS, and JavaScript** from **Elzero Web School**.
+- :javascript: Deep diving into **JavaScript**, currently focusing on **Arrays** and programming logic.
 - :art: Passionate about **Graphic Design** (Photoshop) and UI/UX implementation.
-- :de: Learning **German (A1)** on the side.
+- :de: Learning **German (A1)** as a third language.
 - :soccer: Fun fact: When I'm not coding, I'm usually on the football pitch.
 
 <h2 align="left">:heart: Let's get connected:</h2>
