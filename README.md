@@ -1,7 +1,7 @@
- <h2 align="left">
+<h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Moustafa Essam, Frontend Developer Intern at Route Academy :computer:<br>
+  <br> I'm Moustafa Essam, Front-end Developer  :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -14,13 +14,14 @@
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/> </a>
-    <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45" style="filter: invert(1);"/> </a>
+    <a href="https://github.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45" style="filter: brightness(0) invert(1);"/> </a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="45" height="45"/> </a>
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :seedling: I'm an **Agricultural Engineering** graduate from Alexandria University, currently making a professional **Career Shift** to Frontend Development.
+- :teacher: **Physics Teacher** with **7 years** of experience, developing strong communication and problem-solving skills.
 - :mortar_board: I hold a **Postgraduate Educational Diploma (دبلومة تربوي)**.
 - :mortar_board: Currently enrolled in the **Front-end Diploma at Route Academy**.
 - :white_check_mark: Successfully completed comprehensive courses in **HTML, CSS, and JavaScript** from **Elzero Web School** (Osama Elzero).
